@@ -1,1 +1,1 @@
-<a rel="me" href="https://bark.lgbt/@rengyr">Mastodon</a>
+<a rel="me" href="https://bark.lgbt/@rengyr"></a>
